@@ -1,0 +1,35 @@
+body{
+    background-color: #3B4D1D;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header{
+    width: auto;
+    background-color: #FFC93D;
+    padding: 12px;
+    margin-top: 10px;
+}
+
+section{
+    margin-top: -20px;
+}
+
+form{
+    background-color: #E9B382;
+    height: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+}
+
+h3{
+    margin-left: 60px;
+    color: #FFECBB;
+    font-size: 50px;
+}
+
+label{
+    margin-left: 25px;
+    font-size: 30px;  
+}
